@@ -1,3 +1,3 @@
 # master
 
-This is first time
+First setting up my repository.
